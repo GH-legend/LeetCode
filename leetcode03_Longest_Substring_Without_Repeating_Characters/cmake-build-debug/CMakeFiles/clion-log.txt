@@ -1,0 +1,4 @@
+"D:\software\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\Admin\Desktop\TestCode\C++\2020-08-26\leetcode03_Longest_Substring_Without_Repeating_Characters
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Admin/Desktop/TestCode/C++/2020-08-26/leetcode03_Longest_Substring_Without_Repeating_Characters/cmake-build-debug

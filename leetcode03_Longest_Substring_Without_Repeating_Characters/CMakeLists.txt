@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(leetcode03_Longest_Substring_Without_Repeating_Characters)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(leetcode03_Longest_Substring_Without_Repeating_Characters main.cpp Solution.cpp Solution.h)
