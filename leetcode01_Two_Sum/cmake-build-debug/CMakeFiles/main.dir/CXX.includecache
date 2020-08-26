@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Desktop/TestCode/C++/2020-08-25/leetcode01_Two_Sum/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+map
+-
+
