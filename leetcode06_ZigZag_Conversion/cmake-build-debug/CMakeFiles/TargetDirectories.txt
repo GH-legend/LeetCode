@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-01/leetcode06_ZigZag_Conversion/cmake-build-debug/CMakeFiles/leetcode06_ZigZag_Conversion.dir
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-01/leetcode06_ZigZag_Conversion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-01/leetcode06_ZigZag_Conversion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
