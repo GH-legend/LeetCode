@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-02/leetcode07_Reverse_Integer/Solution.cpp
+Solution.h
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-02/leetcode07_Reverse_Integer/Solution.h
+
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-02/leetcode07_Reverse_Integer/Solution.h
+
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-02/leetcode07_Reverse_Integer/main.cpp
+iostream
+-
+Solution.h
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-02/leetcode07_Reverse_Integer/Solution.h
+
