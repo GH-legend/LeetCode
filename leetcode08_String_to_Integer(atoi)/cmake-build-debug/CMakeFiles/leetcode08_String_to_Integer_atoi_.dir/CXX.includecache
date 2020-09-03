@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-03/leetcode08_String_to_Integer(atoi)/Solution.h
+string
+-
+
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-03/leetcode08_String_to_Integer(atoi)/main.cpp
+iostream
+-
+string
+-
+Solution.h
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-03/leetcode08_String_to_Integer(atoi)/Solution.h
+
