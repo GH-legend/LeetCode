@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-04/leetcode09_Palindrome_Number/Solution.h
+
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-04/leetcode09_Palindrome_Number/main.cpp
+iostream
+-
+Solution.h
+C:/Users/Admin/Desktop/TestCode/C++/2020-09-04/leetcode09_Palindrome_Number/Solution.h
+
